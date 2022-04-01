@@ -1,2 +1,4 @@
-# RGBrand
-Analysis for brand's color Marketing
+
+
+- You can visit our website to see the data visualization. https://rgbrand.net/
+- 
